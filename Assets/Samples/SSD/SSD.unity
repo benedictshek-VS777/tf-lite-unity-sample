@@ -656,7 +656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   options:
-    modelPath: coco_ssd_mobilenet_quant.tflite
+    modelPath: classify_9_games_20230215.tflite
     aspectMode: 1
     accelerator: 2
   frameContainer: {fileID: 2074584280}
